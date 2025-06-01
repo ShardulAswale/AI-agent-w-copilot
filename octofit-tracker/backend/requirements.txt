@@ -1,0 +1,7 @@
+    # Requirements for OctoFit Tracker backend
+# Based on monafit-tracker, likely using Django and MongoDB support
+
+django>=4.0
+pymongo>=4.0
+djangorestframework>=3.13
+django-cors-headers>=3.13
